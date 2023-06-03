@@ -1,0 +1,23 @@
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\bin\Debug\AppTCPSocketMuntilChat.exe.config
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\bin\Debug\AppTCPSocketMuntilChat.exe
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\bin\Debug\AppTCPSocketMuntilChat.pdb
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\MuntilChatServer.csproj.AssemblyReference.cache
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\MuntilChatServer.csproj.SuggestedBindingRedirects.cache
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.server.resources
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.Properties.Resources.resources
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\MuntilChatServer.csproj.GenerateResource.cache
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\MuntilChatServer.csproj.CoreCompileInputs.cache
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.exe
+E:\LẬP TRÌNH MẠNG\Bài tập lớn\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.pdb
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\bin\Debug\AppTCPSocketMuntilChat.exe.config
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\bin\Debug\AppTCPSocketMuntilChat.exe
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\bin\Debug\AppTCPSocketMuntilChat.pdb
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\MuntilChatServer.csproj.AssemblyReference.cache
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\MuntilChatServer.csproj.SuggestedBindingRedirects.cache
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.server.resources
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.Properties.Resources.resources
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\MuntilChatServer.csproj.GenerateResource.cache
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\MuntilChatServer.csproj.CoreCompileInputs.cache
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.exe
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.pdb
+C:\git-clone\AppTCPSocketMuntilChat\AppTCPSocketMuntilChat\obj\Debug\AppTCPSocketMuntilChat.Frmchatcs.resources
